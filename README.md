@@ -6,7 +6,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-RealTime-orange)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ## 🌐 Overview
 
