@@ -363,29 +363,7 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots inside:
-
-```bash
-docs/screenshots/
-```
-
-Recommended screenshots:
-
-* Register Page
-* Login Page
-* Dashboard
-* Create Discussion
-* Discussion Listing
-* Discussion Detail
-* Comment System
-* Real-Time Chat
-* Online Users
-* Notifications
-* MongoDB Collections
-* Postman API Testing
-* GitHub Repository
 
 ---
 
